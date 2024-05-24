@@ -1,7 +1,8 @@
 public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello world");
-        System.out.println("hello me");
-        System.out.println("hello their");
+    public static void main(String [] args) {
+        for (int i =0;i<5;i++){
+            System.out.println("Hello world");
+        }
+
     }
 }
